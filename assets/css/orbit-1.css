@@ -343,3 +343,12 @@ p {
   width: 70%;
   height: 70%;
 }
+
+.profile-width{
+  padding: 0px;
+}
+
+.div-width{
+  padding: 20px 0px 20px -10px;
+  
+}
