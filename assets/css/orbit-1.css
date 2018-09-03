@@ -30,7 +30,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #1a454f;
+  color: #58cce6;
 }
 
 a:focus {
@@ -331,12 +331,12 @@ p {
 }
 
 @media (min-width: 992px) {
-  .skillset .level-title {
+  /* .skillset .level-title {
     display: inline-block;
     float: left;
     width: 30%;
     margin-bottom: 0;
-  }
+  } */
 }
 
 .img-size{
